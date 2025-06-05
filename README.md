@@ -1,42 +1,36 @@
 <div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
+  <img src="https://img.shields.io/github/languages/count/Semihkynr/Yay-nc-Av-?style=flat-square&color=blueviolet" alt="Language Count">
+  <img src="https://img.shields.io/github/languages/top/Semihkynr/Yay-nc-Av-?style=flat-square&color=1e90ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/Semihkynr/Yay-nc-Av-?style=flat-square&color=ff69b4" alt="Last Commit">
+  <img src="https://img.shields.io/github/license/?style=flat-square&color=yellow" alt="License">
   <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
 </div>
 
-# Project Name
-*Proje Adı*
+# Publisher Hunt
+Yayıncı Avı
 
-A brief, engaging description of your project.  
-*Projenizin kısa ve ilgi çekici bir açıklaması.*
+This project aims to uncover the invisible connections behind popular streaming and video meeting platforms like Twitch, YouTube, Zoom, and Google Meet. By capturing and analyzing network traffic with Wireshark and custom filters, we’ll identify the exact IP addresses, servers, and ports your device communicates with during a live session. For extra convenience, a Python script will automate this process — turning hidden digital paths into clear, traceable data.  
 
----
+Bu proje, Twitch, YouTube, Zoom ve Google Meet gibi popüler yayın ve görüntülü toplantı platformlarının arkasındaki görünmeyen bağlantıları ortaya çıkarmayı amaçlıyor. Wireshark ve özel filtrelerle ağ trafiğini yakalayıp analiz ederek, canlı bağlantı sırasında sisteminizin haberleştiği IP adreslerini, sunucuları ve portları tespit edeceğiz. Ayrıca, Python script ile bu süreci otomatikleştirerek görünmez dijital yolları izlenebilir verilere dönüştüreceğiz.
 
 ## Features / *Özellikler*
 
-- **Feature 1:** Description of the feature.  
-  *Özellik 1: Özelliğin açıklaması.*
-- **Feature 2:** Another cool thing it does.  
-  *Özellik 2: Yaptığı başka bir harika şey.*
-- **Feature 3:** One more for good measure.  
-  *Özellik 3: Ve bir tane daha.*
-- Add more as they develop.  
-  *Geliştikçe daha fazla ekleyin.*
+Feature 1: Real-time capture of IP addresses, servers, and ports used by streaming and meeting platforms.
+Özellik 1: Yayın ve toplantı platformlarının kullandığı IP adreslerini, sunucuları ve portları gerçek zamanlı yakalama.
 
+Feature 2: Custom Wireshark capture and display filters tailored for different platforms like Twitch, Zoom, and YouTube.
+Özellik 2: Twitch, Zoom ve YouTube gibi farklı platformlara özel Wireshark yakalama ve görüntüleme filtreleri.
+
+Feature 3: Automated traffic analysis and reporting with a Python script for fast, repeatable results.
+Özellik 3: Hızlı ve tekrarlanabilir sonuçlar için Python script ile otomatik trafik analizi ve raporlama.
 ---
 
 ## Team / *Ekip*
 
-- **219*****031** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- **Another Member** - Name Surname: *Role or Contribution*  
-  *Ad Soyad: Rolü veya Katkısı*
-- Add more members as needed.  
-  *Gerektiğinde daha fazla üye ekleyin.*
-
+- 2420191011 - Semih KAYNAR
+  PROJE SAHİBİ / Project Owner
+  
 ---
 
 ## Roadmap / *Yol Haritası*
@@ -124,9 +118,8 @@ Licensed under the [MIT License](LICENSE.md).
 ## Acknowledgements / *Teşekkürler* (Optional)
 
 Thanks to:  
-- Awesome Library: For enabling X.  
-- Inspiration Source.  
-- Special thanks to...  
+- Semih KAYNAR (semih.kaynar55@gmail.com)  
+- Istinye University 
 
 *Teşekkürler: Harika kütüphaneler ve ilham kaynakları için.*
 
@@ -134,10 +127,10 @@ Thanks to:
 
 ## Contact / *İletişim* (Optional)
 
-Project Maintainer: [Your Name/Org Name] - [your.email@example.com]  
+Project Maintainer: [Semih KAYNAR] - [semih.kaynar55@gmail.com]  
 Found a bug? Open an issue.  
 
-*Proje Sorumlusu: [Adınız/Kuruluş Adınız] - [e-posta.adresiniz@ornek.com]. Hata bulursanız bir sorun bildirin.*
+*Proje Sorumlusu: [Semih Kaynar - Istinye University] - [semih.kaynar55@gmail.com]. Hata bulursanız bir sorun bildirin.*
 
 ---
 
